@@ -1,5 +1,7 @@
 # tjuptatt_release
 
+**当前版本: v0.1.1**
+
 AzureQAQ's Blog: [3MoreDays](https://3moredays.com)
 
 **tjuptatt** 是 [tjuptattendance](https://github.com/azureqaq/tjuptattendance/) 的一个特殊版本，
