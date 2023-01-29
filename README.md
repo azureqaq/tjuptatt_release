@@ -1,6 +1,6 @@
 # tjuptatt_release
 
-**当前版本: v0.1.1**
+**当前版本: v0.1.2**
 
 AzureQAQ's Blog: [3MoreDays](https://3moredays.com)
 
