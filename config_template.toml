@@ -68,3 +68,9 @@ login_delay = [3, 0]
 # 获取答案所需要的时间
 # 建议3s
 answer_delay = [3, 0]
+
+
+# 其他网络相关设置
+[network]
+# 设置超时限制，单位：秒
+timeout = 10
