@@ -2,6 +2,8 @@
 
 **当前版本: v0.1.3**
 
+**注意:** 最近tjupt关闭了登录入口，在tjupt恢复访问前，此程序暂不可用，请等待版本更新，或tjupt恢复
+
 AzureQAQ's Blog: [3MoreDays](https://3moredays.com)
 
 **tjuptatt** 是 [tjuptattendance](https://github.com/azureqaq/tjuptattendance/) 的一个特殊版本，
