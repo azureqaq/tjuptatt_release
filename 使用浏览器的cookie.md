@@ -41,7 +41,7 @@
 
 ### 二、写入tjuptatt的cookie文件
 
-tjuptatt 储存cookies的文件夹为：`C:\Users\username\AppData\Local\tjuptatt`，如果没有可以手动创建，
+tjuptatt 储存cookies的文件夹为：`C:\Users\USERNAME\AppData\Local\tjuptatt`，如果没有可以手动创建，(其中 `USERNAME` 为电脑上你的用户名)
 
 这个文件夹下存放使用过的cookies文件，文件名称形如：`username_cookie.json`，如果不存在，请手动创建，比如你的tjupt账号名字是：“zhangsan”，则文件名为：`zhangsan_cookie.json`
 
