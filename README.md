@@ -2,7 +2,7 @@
 
 **当前版本: v0.1.4**
 
-**注意:** 最近tjupt关闭了登录入口，在tjupt恢复访问前，此程序暂不可用，请等待版本更新，或tjupt恢复
+**注意:** 最近tjupt关闭了登录入口，在tjupt恢复访问前，此程序暂不可用，请等待版本更新，或tjupt恢复。临时解决办法为：[使用浏览器的cookie](./使用浏览器的cookie.md)
 
 AzureQAQ's Blog: [3MoreDays](https://3moredays.com)
 
