@@ -8,7 +8,7 @@
 
 安装插件(任选一种即可)：
 
-- Edge：[Cookie Editor]([Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc))
+- Edge：[Cookie Editor - Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/cookie-editor/ajfboaconbpkglpfanbmlfgojgndmhmc)
 - Chrome: 插件商店搜索 **EditThisCookie**
 
 #### 提取cookie
