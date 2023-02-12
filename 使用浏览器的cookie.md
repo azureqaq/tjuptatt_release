@@ -58,3 +58,6 @@ tjuptatt 储存cookies的文件夹为：`C:\Users\USERNAME\AppData\Local\tjuptat
 替换其中的 `COOKIE_VALUE`，并修改 `AtUtc` 为 **今后** 的UTC时间点，其中 `Max-Age` 为cookie有效期，可以适当修改，单位为秒。
 
 如果有什么问题或建议，欢迎 issue 或 pr ！
+
+### 三、致谢
+- [@zxj1009587922](https://github.com/zxj1009587922)
