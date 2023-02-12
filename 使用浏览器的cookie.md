@@ -22,7 +22,7 @@
 [
 {
     "domain": ".tjupt.org",
-    "expirationDate": 1683****.8****0,
+    "expirationDate": 1683000.80080,
     "hostOnly": false,
     "httpOnly": false,
     "name": "access_token",
